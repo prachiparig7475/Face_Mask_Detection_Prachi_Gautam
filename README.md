@@ -3,7 +3,7 @@
 A real-time face mask detection system built with Python and computer vision. It detects faces from a webcam feed or a web interface and classifies whether each person is wearing a mask or not wearing a mask, with live analytics.
 
 ✨ Features
-🎥 Live detection using your webcam (detect_live.py)
+'''🎥 Live detection using your webcam (detect_live.py)
 🌐 Web interface to run detection from the browser (app.py + index.html)
 📊 Analytics on detection results such as mask vs. no-mask counts (analytics.py)
 ⚙️ Central configuration for paths, thresholds and settings (config.py)
